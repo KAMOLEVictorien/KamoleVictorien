@@ -28,7 +28,7 @@
 ---
 
 ### 📲 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamole-victorien/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
 [![GitHub](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername)
 
